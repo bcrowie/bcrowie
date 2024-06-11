@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bcrowie - Brenden Crowie
-- 👀 I’m interested web and microcontroller development
-- 🌱 I’m currently learning Redux, Redis and Micropython
-- 💞️ I’m looking to collaborate on everything and anything :)
+- 👀 I’m interested in frontend and backend software development and pretty much everything (no exaggeration) tech
+- 🌱 I’m currently perfecting my Typescript, Python and React skillz
+- 💞️ I’m looking to collaborate on some cool junk
 - 📫 How to reach me: brenden@crowie.dev
 
 <!---
